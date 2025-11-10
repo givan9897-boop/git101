@@ -1,1 +1,1 @@
-I like Oranges!
+Print("I like Oranges!")
